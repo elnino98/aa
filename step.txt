@@ -1,0 +1,28 @@
+* For Global Configuration (applies to all repositories):
+
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
+
+
+* To Check Current Configuration:
+
+git config --global --list
+
+
+* if add any file in GitHub in cmd used this step :
+
+1. git add (write name of file)
+2. git commit -m "add"  * you can add any commit
+3. git pull origin main
+4. git push origin main
+
+* if add any folder in GitHub in cmd used this step :
+create folder and put file in folder then:
+
+1. git add .
+2. git commit -m "add"  * you can add any commit
+3. git pull origin main
+4. git push origin main
+
+
+
